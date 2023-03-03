@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/b3e0915f-040c-460e-846b-ffef4acdd082/console.sql">
           <value>
             <set />
@@ -19,6 +24,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/leyou-common/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leyou-common/src/main/java/com/leyou/common/exception/controller/LyExceptionController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leyou-common/src/main/java/com/leyou/common/exception/pojo/ExceptionEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leyou-common/src/main/java/com/leyou/common/exception/pojo/ExceptionResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leyou-common/src/main/java/com/leyou/common/exception/pojo/LyException.java">
           <value>
             <set />
           </value>
