@@ -1,5 +1,6 @@
 # Project exclude paths
-/leyou-common/target/
-/leyou-item/target/
-/leyou-pojo/leyou-pojo-item/target/
-/.idea
+leyou-common/target/*
+leyou-item/target/*
+leyou-pojo/leyou-pojo-item/target/*
+.idea/*
+/.idea/
