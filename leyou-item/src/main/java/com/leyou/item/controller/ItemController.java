@@ -18,10 +18,9 @@ public class ItemController {
     }
 
 
-    @GetMapping("/test")
+    @GetMapping("/leyou/test")
     public String get(){
-        System.out.println("dddddddd");
-        return "success";
+        return "郑总宇宙第一帅";
     }
 
 }
