@@ -6,8 +6,24 @@ spring:
   cloud:
     nacos:
       discovery:
-        server-addr: 192.168.66.133:8848
+        server-addr: 127.0.0.1:8848
     gateway:
+      globalcors:
+        corsConfigurations:
+          '[/**]':
+            allowedOrigins:
+              - "http://manage.leyou.com"
+            allowedHeaders:
+              - "*"
+            allowCredentials: true
+            maxAge: 360000
+            allowedMethods:
+              - GET
+              - POST
+              - DELETE
+              - PUT
+              - OPTIONS
+              - HEAD
       default-filters:
         - name: Hystrix
           args:

@@ -14,9 +14,7 @@
         <module>leyou-pojo</module>
         <module>leyou-client</module>
         <module>leyou-item</module>
-        <module>leyou-pojo-item</module>
-        <module>leyou-item</module>
-        <module>leyou-item</module>
+        <!--<module>leyou-pojo-item</module>-->
     </modules>
 
     <parent>
